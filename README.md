@@ -4,8 +4,8 @@
 
 **A powerful React library for visualizing SQLite databases directly in the browser**
 
-[![npm](https://img.shields.io/npm/v/sqlite-visualizer.svg)](https://www.npmjs.com/package/sqlite-visualizer)
-[![npm](https://img.shields.io/npm/dm/sqlite-visualizer.svg)](https://www.npmjs.com/package/sqlite-visualizer)
+[![npm version](https://img.shields.io/npm/v/sqlite-visualizer?style=flat-square&logo=npm)](https://www.npmjs.com/package/sqlite-visualizer)
+[![npm downloads](https://img.shields.io/npm/dm/sqlite-visualizer?style=flat-square&logo=npm)](https://www.npmjs.com/package/sqlite-visualizer)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue.svg)](https://www.typescriptlang.org/)
 
