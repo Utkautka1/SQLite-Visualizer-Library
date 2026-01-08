@@ -375,8 +375,8 @@ function ExportData() {
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sqlite-visualizer.git
-cd sqlite-visualizer
+git clone https://github.com/Utkautka1/SQLite-Visualizer-Library.git
+cd SQLite-Visualizer-Library
 
 # Install dependencies
 npm install
@@ -454,9 +454,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Support
 
-- 📧 Email: support@example.com
-- 💬 Issues: [GitHub Issues](https://github.com/yourusername/sqlite-visualizer/issues)
-- 📖 Documentation: [Full Docs](https://yourusername.github.io/sqlite-visualizer)
+- 📧 Email: utkaplay1502craced12@gmail.com
+- 💬 Issues: [GitHub Issues](https://github.com/Utkautka1/SQLite-Visualizer-Library.git/issues)
+- 📖 Documentation: [Full Docs](https://github.com/Utkautka1/SQLite-Visualizer-Library.git)
 
 ---
 
@@ -464,7 +464,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 **Made with ❤️ for developers**
 
-[⭐ Star on GitHub](https://github.com/yourusername/sqlite-visualizer) • [📦 npm](https://www.npmjs.com/package/sqlite-visualizer) • [🐛 Report Bug](https://github.com/yourusername/sqlite-visualizer/issues)
+[⭐ Star on GitHub](https://github.com/Utkautka1/SQLite-Visualizer-Library.git) • [📦 npm](https://www.npmjs.com/package/sqlite-visualizer) • [🐛 Report Bug](https://github.com/Utkautka1/SQLite-Visualizer-Library.git/issues)
 
 </div>
 

@@ -17,7 +17,5 @@ yarn-error.log*
 *.swo
 coverage/
 .cache/
-PUBLISH.md
-SETUP_2FA.md
-GITHUB_SETUP.md
+
 

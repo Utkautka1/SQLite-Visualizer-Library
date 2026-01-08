@@ -39,7 +39,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Utkautka1/SQLite-Visualizer-Library.git"
+    "url": "git+https://github.com/Utkautka1/SQLite-Visualizer-Library.git"
   },
   "homepage": "https://github.com/Utkautka1/SQLite-Visualizer-Library#readme",
   "bugs": {
