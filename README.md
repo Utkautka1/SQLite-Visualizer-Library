@@ -455,7 +455,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📞 Support
 
 - 📧 Email: utkaplay1502craced12@gmail.com
-- 💬 Issues: [GitHub Issues](https://github.com/Utkautka1/SQLite-Visualizer-Library.git/issues)
+- 💬 Issues: [GitHub Issues](https://github.com/Utkautka1/SQLite-Visualizer-Library/issues)
 - 📖 Documentation: [Full Docs](https://github.com/Utkautka1/SQLite-Visualizer-Library.git)
 
 ---
