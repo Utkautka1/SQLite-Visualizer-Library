@@ -464,7 +464,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 **Made with ❤️ for developers**
 
-[⭐ Star on GitHub](https://github.com/Utkautka1/SQLite-Visualizer-Library.git) • [📦 npm](https://www.npmjs.com/package/sqlite-visualizer) • [🐛 Report Bug](https://github.com/Utkautka1/SQLite-Visualizer-Library.git/issues)
+[⭐ Star on GitHub](https://github.com/Utkautka1/SQLite-Visualizer-Library.git) • [📦 npm](https://www.npmjs.com/package/sqlite-visualizer) • [🐛 Report Bug](https://github.com/Utkautka1/SQLite-Visualizer-Library/issues)
 
 </div>
 
