@@ -1,6 +1,6 @@
 {
   "name": "sqlite-visualizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "React library for visualizing SQLite databases in the browser with ER diagrams, query builder, data explorer, and query plan visualization",
   "main": "dist/index.js",
@@ -84,4 +84,3 @@
     "typescript": "^5.3.3"
   }
 }
-
